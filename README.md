@@ -3,7 +3,7 @@
 ![Logo](images/logo.png)
 
 Resources
----------
+---------mmm
 - [Install the software you will need for this module](install.md)
 * [The Java Tutorial from Oracle](http://docs.oracle.com/javase/tutorial/)
 * [Games Fleadh](http://www.gamesfleadh.ie/)
